@@ -24,11 +24,11 @@ If you prefer this style, make sure to disable ElvUI chat bubble skinning ingame
 `_classic_` for Mists of Pandaria Classic  
 `_classic_era` for Classic, Seasons, Hardcore and Anniversary  
 
-***If you have file name extensions displayed it will append .blp - this is fine.**  
+***If you have file name extensions displayed it will append .tga - this is fine.**  
 
 # Correctly installed file path
 
-![Image 1](https://i.imgur.com/M6jeTeC.png "Image 1")
+![Image 1](https://i.imgur.com/TjGmXp1.png "Image 1")
 
 # Showcase - Style "Invisible"
 
