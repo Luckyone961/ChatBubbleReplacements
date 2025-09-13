@@ -13,11 +13,16 @@ If you prefer this style, make sure to disable ElvUI chat bubble skinning ingame
 **3)** Choose a style (Invisible, Small, Medium, Large)  
 **4)** Rightclick the style and click on "Extract All..."  
 **5)** Then move the subfolder (Called "Tooltips") to:  
-• `World of Warcraft\_retail_\Interface`  
+• `World of Warcraft\[WOW VERSION]\Interface`  
 **6)** Now it should exactly look like this:  
-• `World of Warcraft\_retail_\Interface\Tooltips`  
-• `World of Warcraft\_retail_\Interface\Tooltips\ChatBubble` *  
-• `World of Warcraft\_retail_\Interface\Tooltips\ChatBubbleVertical` *  
+• `World of Warcraft\[WOW VERSION]\Interface\Tooltips`  
+• `World of Warcraft\[WOW VERSION]\Interface\Tooltips\ChatBubble` *  
+• `World of Warcraft\[WOW VERSION]\Interface\Tooltips\ChatBubbleVertical` *  
+
+*[WOW VERSION]  
+`_retail_` for The War Within  
+`_classic_` for Mists of Pandaria Classic  
+`_classic_era` for Classic, Seasons, Hardcore and Anniversary  
 
 ***If you have file name extensions displayed it will append .blp - this is fine.**  
 
